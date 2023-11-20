@@ -6,13 +6,11 @@
 
 - 🔭 **I’m currently practicing as Python-Django + React web development**
 
-- 👨‍💻 All of my projects are available at : [(coming soon)]((coming soon))
+- 👨‍💻 Intrested in **problem solving, team building,  collaborations**
 
 - 💬 Ask me about **any thing related to python-django full stack web development**
 
-- 📫 How to reach me : **linkedin.com/in/mohamed-afreen-jasim**
-
-- 📄 Know about my experiences : [(coming soon)]((coming soon))
+- 📫 How to reach me **afrinofficial2001@gmail.com**
 
 - ⚡ **I wish to make different**
   
