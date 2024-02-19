@@ -6,9 +6,9 @@
 
 - 👨‍💻 Iam Interested in **exploring new things**
 
-- 🔭 **I’m currently practicing as Full stack web development**
+- 🔭 **I’m currently practicing as Python Full stack development**
 
-- 💬 Ask me about **any thing related to python-django full stack web development**
+- 💬 Web developer passionate about crafting elegant solutions to complex problems.
 
 - 📫 How to reach me **afrinofficial2001@gmail.com**
 
