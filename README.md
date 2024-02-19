@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamed-afreen&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-afreen" /> </p>
 
-- 🔭 **I’m currently practicing as Python-Django + React web development**
+- 👨‍💻 Iam Interested in **exploring new things**
 
-- 👨‍💻 Intrested in **problem solving, team building,  collaborations**
+- 🔭 **I’m currently practicing as Full stack web development**
 
 - 💬 Ask me about **any thing related to python-django full stack web development**
 
