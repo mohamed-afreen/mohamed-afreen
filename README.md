@@ -58,6 +58,7 @@
   <br/>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
+<a> <img src="https://imgs.search.brave.com/6s2DPk70nHF_Y61b70xil6yOTJDPXpoydEgeh_U7PJw/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9taXJv/Lm1lZGl1bS5jb20v/djIvMSpVdTRVSmo0/NXAwQUYxZVUxUU9f/eFp3LnBuZw" alt="" width="40" height="40" /> </a>
 </div>
 
 </td></tr></table>  
