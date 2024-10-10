@@ -43,7 +43,7 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a><img style="margin: 10px" src="https://www.freepik.com/photos/wordpress-logo" alt="CSS3" height="50" /></a>
+<a><img style="margin: 10px" src="https://imgs.search.brave.com/WRyBL59Rkkz0RYvMMXjRvYd2w7vSJMa8Vb4N_w6KVLI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93b3JkcHJlc3Mt/bG9nby1pY29uXzEw/NzMwNzUtMTcwOS5q/cGc_c2l6ZT02MjYm/ZXh0PWpwZw" alt="wordpress" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
