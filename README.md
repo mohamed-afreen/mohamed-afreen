@@ -8,7 +8,7 @@
 
 - 🔭 **I’m currently practicing as Python Full stack development**
 
-- 💬 Web developer passionate about crafting elegant solutions to complex problems.
+- 💬 Software Development Engineer passionate about crafting elegant solutions to complex problems.
 
 - 📫 How to reach me **afrinofficial2001@gmail.com**
 
